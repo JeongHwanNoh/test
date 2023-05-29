@@ -12,7 +12,7 @@ import java.util.Scanner;
 
             int x = Math.min(a, c-b);
             int y = Math.min(b, d-b);
-            
+
             System.out.println(Math.min(x, y));
         }
 
